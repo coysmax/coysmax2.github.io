@@ -1,55 +1,76 @@
-# Your Name
+# Max Marchand
 
-your.name@example.com
+360-712-4519 | mfm2@uw.edu | mfm2@fix.com | linkedin.com/in/maxmarchand
 
-http://www.example.com
+## Education
 
-http://www.linkedin.com/in/yourname
+### University of Washington
+Seattle, WA | Sep 2022 – June 2026
 
-# Summary
+Bachelor of Arts in Geographic Information Systems and Data Science
+- Minors: Business & Urban Design and Planning
+- Honors & Leadership: Dean's List • Club Soccer Captain • Film Club Lead Critic
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+## Experience
 
-# Work Experience (only last 10 years)
+### Geographic Information Systems Intern
+Ring County Department of Natural Resources and Environment | Seattle, WA | June 2025 – Present
 
-## University Name 1 (City, State)
+- Created facility class and asset inventory containing 2,500+ facilities points that correspond with researched coordinates from county parcel data
+- Designed StoryMap presentation of the project, process, and findings of the county asset project
+- Developed methodology for identifying and projecting maintenance holes for quality control on existing data
+- Developed ArcGIS Pro script for automating the methodology across the entire county dataset
 
-* [University 1][] description, particularly if not well-known.*
+### Dam Safety Intern
+Seattle City Light | Seattle, WA | June 2024 – Present
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+- Managed and organized all Dam Safety related Databases and Documents
+- Led the complete digitization of Dam Safety archives, ensuring easy accessibility via SharePoint
+- Utilized ArcGIS Pro and LiDAR data for potential inundation mapping
+- Developed spreadsheet tracking the location and status of dam digital and physical documents
+- ESRI Certified in ArcGIS Pro - Real World GIS
 
-Summary of your role
+### Urban Planning and GIS Consultant
+Pacific County | South Bend, WA | March 2025 – June 2025
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+- Consulted on the redesign and potential urban development of Bendiskis Landing
+- Led the flood risk analysis for the site and visualized the inversion surfaces available for development
+- Analyzed water lines used for the site to geoference engineering drawings to project current water lines
+- Developed a parcel map to visualize ownership and acreage of the site and surrounding area
+- Presented maps and consultant plans to Pacific County
 
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
+### Rec Clubs Program Coordinator
+University of Washington | Seattle, WA | Oct 2023 – Present
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+- Oversaw budget details for all recreational sports clubs across campus
+- Managed club files and redesigned SharePoint for improved accessibility and efficiency
+- Used Fusion and Microsoft Excel to develop practice schedules for all clubs
+- Recognized as 2023/24 and 2024/25 Rec Clubs Employee of the Year
 
-Summary of your role
+## Projects
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+### Seattle Spurs
+Board Member, Staff Writer, Podcast Host | April 2023 – Present
 
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
+- Board Member of the Official Tottenham Hotspur Supporters Club of Seattle
+- Founding Staff Writer and Podcast Host for the Emerald and Lilywhite blog
+- Recorded episodes to a weekly schedule for dedicated fan base and team
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+### Map Portfolio
+Spatial Analysis, Urban GIS, Inundation Mapping | January 2024 – Present
 
-Summary of your role
+- Collection of academic and professional GIS projects
+- Maps of Gentrification in Seattle with supplemental thesis
+- Maps of Real Estate in Seattle around Light Rail stations with trend analysis
 
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
+## Technical Skills
 
+**Programming Languages:** Java, Python, SQL, R
 
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+**GIS Software:** ArcGIS Pro, QGIS, ArcGIS Online, StoryMaps
+
+**Developer Tools:** Git, RStudio, Google Cloud Platform, VS Code, JupyterHub, Anaconda, IntelliJ, AutoCAD
+
+**File Management:** Microsoft Excel, SharePoint, File Explorer, Adobe Acrobat, BlueBeam
+
+**Libraries:** pandas, NumPy, Matplotlib
